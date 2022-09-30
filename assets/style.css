@@ -1,0 +1,10 @@
+.card
+    {
+        display: grid;
+        grid-column: auto;
+        border: solid 0.5px cyan;
+
+        
+        
+
+    }
